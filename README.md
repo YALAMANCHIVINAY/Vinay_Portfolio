@@ -1,35 +1,72 @@
+# Vinay Yalamanchi — Portfolio
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## FOLIO
+## Portfolio
 
 [Live Demo](https://vinay-yalamanchi-portfolio.vercel.app/)
 
-To cater to my goal of having my own portfolio website since 2016 🚀
+Welcome to my personal portfolio website.
 
-## How did I create this?
+I'm **Vinay Yalamanchi**, an AI and Machine Learning Engineer with experience in building intelligent, scalable, and data-driven solutions.
 
-1. UI/UX is brainstormed using inspiration from winning portfolios from awwwards. High-fidelity mockup aggregating the ideas using Figma.
-2. This project uses React for simplicity to break down sections as components. Also uses next.js to achieve SSG. SVGs have been animated using CSS.
-3. Section scrolling and reveal animations uses GSAP. Card interactions use Tilt js. The timeline section was built using JS/SVGs and animated via GSAP.
-4. Optimised animations, layer management, repaints, and re-layouts using Chrome dev tools.
+This portfolio showcases my professional journey, technical skills, work experience, education, and selected projects in Artificial Intelligence, Machine Learning, Generative AI, software engineering, and related technologies.
 
-## How to run on local?
+## About This Portfolio
 
-First, run the development server:
+The website provides an interactive overview of my professional background, including:
+
+- Professional experience
+- AI & Machine Learning expertise
+- Technical skills and technologies
+- Education
+- Selected projects
+- Career timeline
+- Resume
+- Professional contact information
+
+The interactive timeline highlights different stages of my education and professional experience, while the projects section showcases selected technical work.
+
+## Technologies
+
+The portfolio is built with technologies including:
+
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- SCSS
+- GSAP
+- SVG animations
+- Responsive web design
+
+Additional technologies and tools related to my AI/ML work are showcased throughout the portfolio.
+
+## Projects
+
+The portfolio includes selected projects covering areas such as:
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Software Engineering
+- Data-driven applications
+- IoT and automation
+- Cloud and deployment technologies
+
+Live project links will be added as individual projects are deployed.
+
+## Resume
+
+My latest resume is available directly through the portfolio.
+
+## Contact
+
+For professional opportunities, collaborations, or technical discussions, please use the contact information and professional links available on the portfolio website.
+
+## Run Locally
+
+Clone the repository and install the dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Forked Versions from Community
-
-Vue JS implemetation by sjtuli: [filio-vue](https://github.com/sjtuli/filio-vue)
-Same template with a slightly different flavor by shubh73: [devfolio](https://github.com/shubh73/devfolio)
-
-## A note on re-sharing
-
-I have been refining the project using 7+ years of my learnings. While I appreciate the beauty of open source, due credits to the project will be appreciated if you plan to re-share the template. Copyright headers with author name should be included under the forked versions as well. Happy coding :)
+npm install
