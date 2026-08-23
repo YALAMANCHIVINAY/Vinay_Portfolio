@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinay-portfolio-blush.vercel.app/sitemap.xml
