@@ -1,8 +1,8 @@
 export const METADATA = {
-  title: "Portfolio | Vinay Yalamanchi",
+  title: "Vinay Yalamanchi | AI/ML Engineer & Software Engineer",
   description:
-    "AI/ML Engineer and Computer Science master's graduate with 3+ years of experience building scalable software applications, REST APIs, and AI-enabled solutions using Python, C#, FastAPI, SQL, PostgreSQL, and Microsoft Azure.",
-  siteUrl: "https://vinay-yalamanchi.github.io/Portfolio/",
+    "Vinay Yalamanchi is an AI/ML Engineer and Software Engineer with 3+ years of experience building AI-enabled applications, REST APIs, backend systems, automation workflows, and scalable cloud solutions using Python, FastAPI, SQL, Azure, and machine learning.",
+  siteUrl: "https://vinay-portfolio-blush.vercel.app/",
 };
 
 export const MENULINKS = [
