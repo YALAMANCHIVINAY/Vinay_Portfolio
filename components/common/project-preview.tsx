@@ -66,7 +66,7 @@ export const ProjectPreview = ({ type }: { type: string }) => {
           <div><span className={styles.audioMark}>▶</span><span>TTS Performance Lab</span></div>
           <span className={styles.statusPill}>Sample run • FPT.AI</span>
         </div>
-        <div className={styles.textInput}>"Evaluate end-to-end text-to-speech conversion latency…"</div>
+        <div className={styles.textInput}>&quot;Evaluate end-to-end text-to-speech conversion latency...&quot;</div>
         <div className={styles.audioPanel}>
           <button aria-label="Play sample">▶</button>
           <div className={styles.bigWave}>{[12,19,32,18,25,40,28,16,36,23,31,15,26,39,20,12,30,18,24,13].map((h,i)=><i key={i} style={{height:h}} />)}</div>

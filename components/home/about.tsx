@@ -63,7 +63,7 @@ const AboutSection = () => {
           willChange ? "will-change-opacity" : ""
         }`}
       >
-        I am an AI/ML Engineer and Computer Science master's graduate with 3+ years of experience building scalable software applications, REST APIs, and AI-enabled solutions.{" "}
+        I am an AI/ML Engineer and Computer Science master&apos;s graduate with 3+ years of experience building scalable software applications, REST APIs, and AI-enabled solutions.{" "}
       </span>
       <span
         className={`about-2 leading-tight ${
