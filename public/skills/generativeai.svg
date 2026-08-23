@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="genAiTitle">
+  <title id="genAiTitle">Generative AI</title>
+  <defs>
+    <linearGradient id="aiGradient" x1="10" y1="8" x2="55" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DD5ED"/>
+      <stop offset=".55" stop-color="#7C8CFF"/>
+      <stop offset="1" stop-color="#C471ED"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 7c1.5 8.6 6.9 14 15.5 15.5C38.9 24 33.5 29.4 32 38c-1.5-8.6-6.9-14-15.5-15.5C25.1 21 30.5 15.6 32 7Z" fill="url(#aiGradient)"/>
+  <path d="M47.5 34c.9 5.2 4.3 8.6 9.5 9.5-5.2.9-8.6 4.3-9.5 9.5-.9-5.2-4.3-8.6-9.5-9.5 5.2-.9 8.6-4.3 9.5-9.5ZM15 36c.7 4.1 3.4 6.8 7.5 7.5-4.1.7-6.8 3.4-7.5 7.5-.7-4.1-3.4-6.8-7.5-7.5 4.1-.7 6.8-3.4 7.5-7.5Z" fill="url(#aiGradient)" opacity=".9"/>
+  <circle cx="32" cy="22.5" r="3" fill="#F7FCFF"/>
+</svg>
